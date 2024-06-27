@@ -1,5 +1,5 @@
-# chart-library
-##Dashboard: KesriTalks Dashboard is an important part of most of the web applications so there is the static dashboard of my YouTube channel 'kesriTalks'. Through this project, I learned new libraries of reactjs used for graphs and charts and revised old concepts.
+# Here my chart-library deployment-link:https://chart-library.onrender.com
+##Dashboard: AnilTalks Dashboard is an important part of most of the web applications so there is the static dashboard.Through this project, I learned new libraries of reactjs used for graphs and charts and revised old concepts.
 
  useState hook: change the state of function ex- expanding card, active sidebar content
  Map method: calling array of object- reusability
